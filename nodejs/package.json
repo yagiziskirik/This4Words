@@ -1,0 +1,24 @@
+{
+  "name": "this4words",
+  "version": "0.1.0",
+  "description": "Encodes and decodes geolocation data to four words with 1.11 meters of accuracy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: No test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "this4words",
+    "geolocation",
+    "nodejs",
+    "python",
+    "what3words"
+  ],
+  "author": "yagiziskirik",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
