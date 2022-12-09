@@ -1,6 +1,6 @@
-# Welcome to What4Words contributing guide <!-- omit in toc -->
+# Welcome to This4Words contributing guide <!-- omit in toc -->
 
-Thank you for investing your time in contributing to my project! Any contribution you make will be reflected on [What4Words](https://github.com/yagiziskirik/What4Words) page :sparkles:. 
+Thank you for investing your time in contributing to my project! Any contribution you make will be reflected on [This4Words](https://github.com/yagiziskirik/This4Words) page :sparkles:. 
 
 In this guide you will get an overview of the contribution workflow from opening an issue, creating a PR, reviewing, and merging the PR.
 
@@ -22,11 +22,11 @@ This project has multiple platforms that you can play around. Depending in the w
 
 #### Create a new issue
 
-If you spot a problem with the docs, [search if an issue already exists](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-issues-and-pull-requests#search-by-the-title-body-or-comments). If a related issue doesn't exist, you can open a new issue using a relevant [issue form](https://github.com/yagiziskirik/What4Words/issues/new/choose). 
+If you spot a problem with the docs, [search if an issue already exists](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-issues-and-pull-requests#search-by-the-title-body-or-comments). If a related issue doesn't exist, you can open a new issue using a relevant [issue form](https://github.com/yagiziskirik/This4Words/issues/new/choose). 
 
 #### Solve an issue
 
-Scan through our [existing issues](https://github.com/yagiziskirik/What4Words/issues?q=is%3Aissue) to find one that interests you. You can narrow down the search using `labels` as filters. Also don't forget to check out closed issues.
+Scan through our [existing issues](https://github.com/yagiziskirik/This4Words/issues?q=is%3Aissue) to find one that interests you. You can narrow down the search using `labels` as filters. Also don't forget to check out closed issues.
 
 ### Make Changes
 
@@ -66,6 +66,7 @@ For content changes, make sure that you:
 * Limit the first line to 72 characters or less
 * Reference issues and pull requests liberally after the first line
 * Consider starting the commit message with an applicable emoji:
+    * :wrench: `:wrench:` when adding/editing generic code
     * :art: `:art:` when improving the format/structure of the code
     * :racehorse: `:racehorse:` when improving performance
     * :tr: `:(flag of the language):` when adding or changing translations
@@ -94,6 +95,6 @@ Once you submit your PR, a Docs team member will review your proposal. We may as
 
 Congratulations :tada::tada: Thanks for your contribution! :sparkles:. 
 
-Once your PR is merged, your contributions will be publicly visible on the [What4Words](https://github.com/yagiziskirik/What4Words) page. 
+Once your PR is merged, your contributions will be publicly visible on the [This4Words](https://github.com/yagiziskirik/This4Words) page. 
 
 Now that you are part of the What4Words community, welcome to the team :cocktail:.
